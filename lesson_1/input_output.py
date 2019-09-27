@@ -1,3 +1,4 @@
-str = "welcome"
+c = input("input string: ")
 
-print(str)
+
+print(c)
