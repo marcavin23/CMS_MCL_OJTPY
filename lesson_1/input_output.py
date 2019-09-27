@@ -1,0 +1,3 @@
+str = "welcome"
+
+print(str)
