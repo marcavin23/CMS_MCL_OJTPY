@@ -3,6 +3,7 @@ def minposition(A, n):
 
     minposition = A.index(min(A))
     print("least occuring element in the list :", minposition + 1)
+    
 
 A=list()
 n=int(input("Enter the size of the List ::"))
